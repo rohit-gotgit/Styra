@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/styra-home.png" width="900">
+</p>
+
 # Styra – Full Stack eCommerce Web Application + Admin Panel
 
 Styra is a powerful and modern full stack eCommerce web application built using Next.js, Express.js, MongoDB with Mongoose, Redux Toolkit, RTK Query, and Stripe payment integration. It includes a feature-rich admin panel for complete management and control of products, users, and orders.
@@ -7,13 +11,15 @@ Styra is designed with scalability, clean architecture, and real-world productio
 
 [![Live Site](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://styra-tau.vercel.app)
 
+
+
 ## Project Screenshots
 <p align="center">
-  <img src="./styra-home.png" width="800"/>
+  <img src="./images/styra-clothes.jpeg" width="800"/>
 </p>
 
 <p align="center">
-  <img src="./styra-products.jpeg" width="800"/>
+  <img src="./images/styra-products.jpeg" width="800"/>
 </p>
 
 ---
