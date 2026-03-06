@@ -16,7 +16,7 @@ if (typeof window !== "undefined") {
 
 // stripePromise
 const stripePromise = loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY);
-const NEXT_PUBLIC_GOOGLE_CLIENT_ID = '903081644488-n60j77h2s46n2anpau0p5krrjrpi8aae.apps.googleusercontent.com'
+const NEXT_PUBLIC_GOOGLE_CLIENT_ID = '665356667688-8dbma581fclb4dfl6s5gjemioafvuoio.apps.googleusercontent.com'
 export default function App({ Component, pageProps }) {
   return (
     <>
