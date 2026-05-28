@@ -12,7 +12,7 @@ It includes a feature‑rich admin dashboard, Stripe payment integration, and a 
 
 
 
-## Project Screenshot
+## Project Screensho
 <p align="center">
   <img src="./images/styra-clothes.jpeg" width="800"/>
 </p>
